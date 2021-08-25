@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suryanalam
 - 👀 I’m interested in cyber security and graphic designing.
-- 🌱 I’m currently learning b.tech (cse) 2nd year.
+- 🌱 I’m currently pursuing b.tech (cse) 2nd year.
 - 📫 How to reach me suryanalam3011@gmail.com
 
 <!---
