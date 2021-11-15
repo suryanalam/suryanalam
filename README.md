@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @suryanalam
-- 👀 I’m interested in cyber security and graphic designing.
-- 🌱 I’m currently pursuing b.tech (cse) 2nd year.
-- 📫 How to reach me suryanalam3011@gmail.com
+- 👋 Hi, I’m Surya Narayana Murthy .Nalam
+- I’m currently pursuing b.tech (cse) 2nd year.
+- I’m interested in cyber security and graphic designing.
+- Have a good command over c++. 
+- Reach me here: suryanalam3011@gmail.com
 
 <!---
 suryanalam/suryanalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
