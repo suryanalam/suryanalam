@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanalam&label=Profile%20views&color=0e75b6&style=flat" alt="suryanalam" /> </p>
 
-- 🔭 I’m currently working on **Notes Management System using ReactJs**
+- 🔭 I’m currently working on **Library Management System using ReactJs**
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, Bootstrap**
+- 🌱 I’m currently learning **ReactJs, NodeJs, ExpressJs, MySQL**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, ReactJs.**
+- 💬 Ask me about **Frontend Technologies and Graphic Designing**
 
 - 📫 How to reach me **suryanalam3011@gmail.com**
 
